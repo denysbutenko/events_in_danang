@@ -1865,6 +1865,12 @@ SUMMARY:Розбір запиту через гру з @vikovalishina
 UID:691cdd48-8a43-5bff-a133-762b887398af@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мафія завтра о 18:00 — збираємось на гру!\nЗапрошую і новачків\, і досвідчених — у нас атмосфера максимально дружня\, без токсичності і зайвих нервів 😎\n💰\n Вартість: \n150 000 VND\n📩\n Бронювання місця у приват →\n \n@vikovalishina\nПриходь за емоціями\, новими знайомствами і класною грою 💛
+DTSTART:20260621T110000Z
+SUMMARY:Гра в мафію для новачків та досвідчених
+UID:6922a63f-8560-54af-a2d6-d5b8cecf10bd@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Хочемо завтра поїхати в Hot Springs (якщо дощик буде помірний)\, або Mikazuki (якщо дощитиме сильніше) погрітись та релакснути.\nЧи бажає хтось скласти компанію? \nВиїзд орієнтовно 9-10:00. \nHot Springs \nhttps://maps.app.goo.gl/q9izwB7PmDpfYeNL8?g_st=ic
 DTSTART:20251115T020000Z
 SUMMARY:Поїздка до Hot Springs

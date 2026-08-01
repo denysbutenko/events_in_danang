@@ -986,6 +986,12 @@ SUMMARY:Українські збори для настільних ігор
 UID:30e468be-4efd-510c-bbd1-47c20ea29280@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:🏃\n \nSEASIDE EVENING RUN\nВечірня пробіжка на набережній\n📅\n \nП’ятниця\, 31 липня\n🕢\n \nСтарт: 18:00\n📍\n \nЛокація в [\nчаті\n]\n✔️\n дистанція \n5 км\n✔️\n підходить для новачків\n✔️\n прокачуємо витривалість\nПросто приходь і біжи з нами.\nЗапис на івент:\n \n@AlexBodywork\nAll activities → \nNØ DRAMA Events
+DTSTART:20260731T110000Z
+SUMMARY:Вечірня пробіжка на набережній
+UID:30f42eb0-3a1d-5115-88e4-d8a20d95b36c@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Дівчата привіт\n💐\nЗапрошую завтра (09.04) на High Heels \n👠\n на 13:30 \nНова хореографія\n🦢\nСередній рівень\n@shchutska_ya \n\nДля запису пишіть в особисті
 DTSTART:20260409T063000Z
 SUMMARY:High Heels з @shchutska_ya
@@ -5058,6 +5064,12 @@ DESCRIPTION:Дівчатка\, привіт\n🤗\nВ середу ( 24.12 ) т�
 DTSTART:20251224T100000Z
 SUMMARY:Джаз фанк з Віталіною Башмаковою
 UID:fbee58fc-9d9c-5041-8338-01a5e006296c@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Завтра на 11:30 дивимось Odyssey отут: \\nMetiz cinema\\nНас поки двоє на увесь зал (f08\, f09)\, долучайтесь \\n😊\\nКвитки по 90к\, зал недалеко від Міану.
+DTSTART:20260801T043000Z
+SUMMARY:Перегляд фільму Odyssey о 11:30 у Metiz cinema
+UID:fbeefff7-de55-5b60-9705-715e5f9a5fb8@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Українці у Вʼєтнамі\, маємо для вас особливу подію 💛\nЗапрошуємо вас на наші виступи в Хойані:\n📍 Zen Village Hoi An\n17 квітня (п’ятниця)\n🌴 Pool Party біля басейну\n🎧 DJ Nick — з 15:00 до 19:00

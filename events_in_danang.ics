@@ -938,6 +938,12 @@ SUMMARY:Йога з @froggyogy
 UID:2e394c2d-0963-5a47-971e-c82cc70847e3@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Вітаю! Запрошую завтра на Stretching о 10:00\nПрацюємо на поставою та гнучкістю\n💕\nПн/ср/пт 10:00 \n💌\n Для запису на заняття писати в особисті \n@shchutska_ya
+DTSTART:20260803T030000Z
+SUMMARY:Ранковий stretching з @shchutska_ya
+UID:2e48f1a0-7671-504d-b293-fc14d57c66a0@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сьогодні\n🥂\n22:00\nЗустріч нашого комюніті в \nКонг 72.\n\nСпілкування\, більярдний стіл\, наш плейлист\, приглушене світло та бар.\n📍\nВхід через холодильник
 DTSTART:20251121T150000Z
 SUMMARY:Збір громади

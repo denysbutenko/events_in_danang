@@ -5036,6 +5036,12 @@ SUMMARY:Квартирник
 UID:eecf6212-e027-5132-8ce6-91062cf68a2e@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кто-нибудь хочет собраться на бадминтон в пятницу во второй половине дня?
+DTSTART:20260822T050000Z
+SUMMARY:Збір на бадмінтон у пятницю вдень
+UID:ef7cfba8-a0d8-5531-adf8-4cb6732a5ca1@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mafia come back \n🔥\nЗапрошуємо на першу гру після довгої перерви! \nСьогодні о 20:00 стартує наш перший ігровий вечір спортивної мафії у \nLOBOO\n. \nБудемо раді бачити  кожного! Емоції будуть незабутні\n🥰\nЧат обговорення: \nhttps://t.me/danangmafiaua
 DTSTART:20251030T130000Z
 SUMMARY:Мафія

@@ -362,6 +362,12 @@ SUMMARY:Перегляд Формули 1
 UID:10836bd4-f7e6-5a28-b44e-2a67d50fc811@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Цієї пʼятниці знову збираємось на Співанку в KONG72. Напередодні Дня Незалежності України будемо співати разом те\, що всі знаємо й любимо - наживо разом з Mavka. 21 серпня. Початок: 22:00. Вхід вільний.
+DTSTART:20260821T150000Z
+SUMMARY:Вечірня співанка з Mavka в KONG72
+UID:10aae006-fe5d-59fe-99ff-b60c19a41b3b@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Друзі\, завтра планується погода без дощу\, тож запрошую насолодитись йогой на пляжі з шавасаной під шум моря\, поки не почався rain season \n🌝\nПодробиці в групі - \nhttps://t.me/+fbOgVzOxZbs0NDQ6
 DTSTART:20250929T170000Z
 SUMMARY:Yoga on the beach

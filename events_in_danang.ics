@@ -1730,6 +1730,12 @@ SUMMARY:Арт-бранч у Create Danang Art Space
 UID:48a882e0-b9f5-5920-ab41-cf6ef64de717@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дебатні ігри\\n📅\\n Дата: 02.09\\n⏰\\n Час: 10:30 \\n⌛\\n Орієнтовна тривалість: 2 години\\n🏠\\n Локація: \\nThe Workshop\\n💳\\n Вартість: замовити 1 напій у закладі\\n👥\\n Цільова аудиторія: новачки в дебатах\\nПосилання на чат: \\n@da_nang_debate_cluv
+DTSTART:20260902T033000Z
+SUMMARY:Ранкові дебатні ігри у The Workshop
+UID:48f1a567-1d8f-530d-bcc7-1304b439e55e@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Запрошую всіх бажаючих на групові заняття з йоги 🧘🏻‍♀️\n🗓\n Вівторок \n10:00\n🗓\n П'ятниця \n11:15\n💸\n 200к/ 100к вперше \n📍\nACEHub\nДля запису та подробиць пишіть в особисті \n@frogyogy \n🐸
 DTSTART:20260203T030000Z
 SUMMARY:Йога з @frogyogy
@@ -5232,6 +5238,12 @@ DESCRIPTION:Хотіла всіх привітати з Днем Знань\, а
 DTSTART:20260927T040000Z
 SUMMARY:Сніданок з візажистом @ruslana_24_02
 UID:ebfa0bd7-dcd3-5b91-afb5-ad935cb03445@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Відкриваю запис на мафію цього тижня:\nСьогодні\n (середа) \nна 18:00\nНеділя\n на 18:00 \nВартість ігрового вечора - 150к донгів\nДля запису пишіть \n@vikovalishina\nГрупа мафії:\nhttps://t.me/yamafiadanang
+DTSTART:20260902T110000Z
+SUMMARY:Вечірня мафія в середу о 18:00
+UID:ec0e9bbf-1fe4-534f-88e9-7f45490693f0@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Відкриваю запис на мафію цього тижня: Завтра (середа) на 18:00 Неділя на 18:00 Вартість ігрового вечора - 150к донгів Для запису пишіть @vikovalishina Група мафії: https://t.me/yamafiadanang

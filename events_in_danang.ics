@@ -188,6 +188,12 @@ SUMMARY:Волейбол на піску
 UID:07903acd-19e3-57b8-941d-8f76cf5e7413@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Всім привіт 🫶\nЗапрошу вас завтра (14.09) на Stretching о 10:00. Пн/ср/пт 10:00. Для запису на заняття писати в особисті @shchutska_ya.
+DTSTART:20260914T030000Z
+SUMMARY:Щотижневий ранковий стретчинг з @shchutska_ya
+UID:07e0b91d-b12b-508b-a97c-c19764efa0ac@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Всім привіт\, завтра (27.03) є 3 місця на \nStretching о 11:00\n \n✨\nЛокація\n \n \n💌\n Для запису на заняття писати в особисті \n@shchutska_ya
 DTSTART:20260327T040000Z
 SUMMARY:Stretching з Оля
@@ -936,6 +942,12 @@ DESCRIPTION:Может у кого то тоже есть такое желан�
 DTSTART:20260205T020000Z
 SUMMARY:Поїздка на кофейну плантацію
 UID:274e2dab-ad0c-5699-8608-da8fbc080e9d@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дебатні ігри\nДата: 16.09 (середа)\nЧас: 10:30\nОрієнтовна тривалість: 2 години\nЛокація: The Workshop\nВартість: замовити 1 напій у закладі\nФормат: британські парламентські дебати\nЦільова аудиторія: новачки в дебатах\, в тому числі\, хто ніколи не дебатував.\nПосилання на групу:\n@da_nang_debate_club
+DTSTART:20260916T033000Z
+SUMMARY:Британські дебати Дебатного клубу Данангу у середу о 10:30
+UID:276f3806-80f0-591b-8844-45691d32be7e@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:14.03 - 5 вільних місць

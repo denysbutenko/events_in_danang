@@ -3599,6 +3599,12 @@ SUMMARY:Трансформаційна гра CashFlow
 UID:95f3df4a-85b0-5556-94f7-aafab4b21007@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Відкриваю запис на мафію цього тижня:\nСьогодні\n (середа) \nна 18:00\nНеділя\n на 18:00 \nВартість ігрового вечора - 150к донгів\nДля запису пишіть \n@vikovalishina\nГрупа мафії:\nhttps://t.me/yamafiadanang
+DTSTART:20260919T110000Z
+SUMMARY:Вечірня мафія з @vikovalishina
+UID:9603a50b-3a56-5b6c-bdfe-1f790c2cf043@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Всім привіт \nАктуальний розклад  на неділю 28.12\nhttps://maps.app.goo.gl/sFgwYxW88ycNrYXm9?g_st=com.google.maps.preview.copy\nНеділя  28.12\n8.00 -16.00\n2 корти 8 учасників \nВ нас походу є 8 гравців:\n1. \n@amelllloo\n \n✅\n2. \n@Igorltvn\n \n✅\n3. \n@drobenyuk_oleg\n \n✅\n4. \n@ovetmak\n \n✅\n5. \n@MariaSvizha\n \n✅\n6. \n@HnatchenkoYaroslav\n \n✅\n7. \n@vladski29\n \n✅\n8. \n@vitosrh\n \n✅\nБуде бажання - приходьте та підтримайте своіх фаворитів)
 DTSTART:20251228T010000Z
 SUMMARY:Турнір з більярду з @amelllloo
@@ -5622,6 +5628,12 @@ DESCRIPTION:Хлопці та дівчата. Запрошуемо завтра 
 DTSTART:20251122T060000Z
 SUMMARY:Відвідування бані
 UID:f0051f8c-b68b-5d34-91aa-4e464e5f9cf4@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Трайбл-фьюжн беллі денс (Tribal Fusion belly dance) Простір\, де ви можете: відчути зв'язок зі своїм тілом розслабитися та зняти напругу розкрити свою природну жіночу енергію просто насолодитися танцем та атмосферою підтримки. 📍 Дананг (адреса — в особистому повідомленні)
+DTSTART:20260916T033000Z
+SUMMARY:Трайбл-фьюжн беллі денс клас 2026
+UID:f0552aca-8bf9-5342-bcbc-10b94ea68ab5@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тема "Абстракція". Текстурна паста\, акрил і мастихін. Понеділок\, 03.08\, 10:00. Де? - район MyAn. Тривалість - 3 години! Вартість - 350 000 донг. Вільних місць - 4. Працюємо на полотні 40/50 см з підрамником. Попередній досвід не важливий. Запис і запитання в особисті @marykodi. Попередні майстер-класи в збережених тут: https://www.instagram.com/marykolife?igsh=ZTBhOTlzNmw1MGM0MGM

@@ -3773,6 +3773,12 @@ SUMMARY:Чуттєва партерна хорео (початківці) з @vl
 UID:9666cb19-220c-5d74-9c77-42ab15e1c4c2@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мафія завтра о 18:00 — збираємось на гру!\nЗапрошую і новачків\, і досвідчених \n😎\n💰\n Вартість: \n150 000 VND\n📩\n Бронювання місця у приват →\n\n@vikovalishina\nПриходь за емоціями\, новими знайомствами і класною грою \n💛
+DTSTART:20260927T110000Z
+SUMMARY:Мафія з @vikovalishina: вечірня гра
+UID:96ca7df6-d74c-5d3a-bda2-69496ac93cb2@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Як серед нас є любителі і фанати піклболу\, то з сьогодні по 4.10 відбувається міжнародний турнір Vietnam Cup. Вхід на верхні трибуни вільний. \nЛокація: \nhttps://maps.app.goo.gl/jMV43kMHywttkVqy7?g_st=ipc
 DTSTART:20250930T170000Z
 SUMMARY:Vietnam Cup піклбол турнір

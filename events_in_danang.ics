@@ -1238,6 +1238,12 @@ SUMMARY:Збір громади
 UID:2e609bf2-ece4-5d3d-87a1-d3990715c93f@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Всім привіт\n🫶\nЗапрошу вас завтра (14.10) на \nStretching о 10:00\nПн/ср/пт 10:00 \n💌\n Для запису на заняття писати в особисті \n@shchutska_ya
+DTSTART:20261014T030000Z
+SUMMARY:Ранковий stretчинг з @shchutska_ya
+UID:2eb6e391-bb51-5829-877d-09c9c6bed0bc@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Запрошую завтра на наші регулярні заняття з акро йоги\, побудувати довіру\, піраміди і порозтягувати мʼязи 😀 Вівторок: 11:15-12:15 📍 Ace Hub
 DTSTART:20260714T041500Z
 SUMMARY:Акро йога від Тіана
@@ -3729,6 +3735,12 @@ DESCRIPTION:Привіт! Запрошую всіх бажаючих на йог
 DTSTART:20251114T043000Z
 SUMMARY:Йога з @froggyogy
 UID:8ddc7bcd-d584-5f4e-b349-6192df0d4c8e@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дебатні ігри\n📅\n Дата: 14.10 (середа)\n⏰\n Час: 10:30\n⌛\n Орієнтовна тривалість: 2 години\n🏠\n Локация: \nThe Workshop\n💳\n Вартість: замовити 1 напій у закладі\n🇬🇧\nФормат: британські парламентські дебати\n👥\n Цільова аудиторія: новачки в дебатах\, в тому числі\, хто ніколи не дебатував.\nПосилання на групу:\n@da_nang_debate_club
+DTSTART:20261014T033000Z
+SUMMARY:Дебатні ігри: Британський парламент для новачків
+UID:8ddf60c6-7556-5f65-b75e-aa1fe21a307e@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сьогодні ввечері граємо у фрісбі!\nЗустрічаємося о 21:00 на пляжі.\nПриходь покидати диск у хорошій компанії.\nhttps://t.me/+Wlrwn4f4nTQ0Zjg1

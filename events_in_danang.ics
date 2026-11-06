@@ -8,6 +8,12 @@ SUMMARY:Щотижневий вівторковий футбол
 UID:001ae5ca-31e9-5bcc-a3ea-0ce741740af7@events-in-danang
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Недільна прогулянка для нашого психічного здорвʼя. Хто не їде з Дімою в Bạch Mã — пропоную лайтовий варіант в межах міста.\n\n• Початок маршруту: https://maps.app.goo.gl/2rvmtN4qCtmZnnfh9\n• Баньяновий ліс: https://maps.app.goo.gl/e2faaeZLGYrukmiQ9\n• Східний мис / кінець маршруту: https://maps.app.goo.gl/MSAbGXoeC1GUYuJ77\n\n⏳ В один бік:\n• 1 година (3.6 км) дорогою (підйом + спуск)\n• 40 хвилин через джунглі до мису\n• Складність: здорові коліна\, які пройдуть до 10 кілометрів\n\nescooter 🛵 До точки старту доїде будь-який транспорт\, і навіть таксі.\n⏰ Початок близько 09:00\, узгодимо пізніше.
+DTSTART:20261108T020000Z
+SUMMARY:Недільна прогулянка для психічного здоров'я
+UID:0038c4a5-0f51-5c09-9543-9de896eb97dc@events-in-danang
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сьогодні граємо джаз! 🎸 🎸 У Luna Pub https://maps.app.goo.gl/8Rzj6ufJpgxWfDKm7?g_st=ic Початок о 20:00 Безкоштовно
 DTSTART:20260813T130000Z
 SUMMARY:Джаз від Nikolai
